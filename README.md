@@ -7,4 +7,4 @@ Full Demo is explained here
   
   Demo Example
   
- <img src="https://slicode.com/wp-content/uploads/2020/10/Demo_final.mov" width="300" height="660">
+ <img src="https://github.com/Shankar-bs/TableViewCell_Flip_Animation/blob/master/ezgif.com-resize.gif" width="300" height="660">
